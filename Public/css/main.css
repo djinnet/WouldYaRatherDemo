@@ -1,0 +1,14 @@
+/* Basic setup for switch in dark mode. Noticed that they have the same name scheme, but dark is added to make it clear to understand that this is the dark mode css. */
+#bodyExtension{
+    font-family: monospace,'Helvetica Neue', Helvetica, Arial, sans-serif;
+    overflow: hidden;
+    background-color: #fff;
+    color:black;
+}
+
+#bodyExtensionDark{
+    font-family: monospace,'Helvetica Neue', Helvetica, Arial, sans-serif;
+    overflow: hidden;
+    background-color: #201c2b;
+    color: white;
+}
